@@ -1,4 +1,4 @@
-package com.itheima.smm.utils;
+package cn.itbro.utils;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

@@ -1,8 +1,8 @@
-package com.itheima.smm.utils;
+package cn.itbro.utils;
 
 import org.springframework.beans.propertyeditors.PropertiesEditor;
 
-import java.beans.PropertyEditor;
+
 import java.text.ParseException;
 import java.util.Date;
 
